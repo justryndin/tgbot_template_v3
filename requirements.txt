@@ -12,3 +12,4 @@ betterlogging
 # sqlalchemy~=2.0
 # alembic~=1.0
 # asyncpg
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
